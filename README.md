@@ -1,1 +1,1 @@
-# Tensorix.ai
+#   SuperIntellect.ai
